@@ -1,0 +1,11 @@
+C:\Users\Frank\source\repos\ScreenShoot\ScreenShoot\bin\Debug\ScreenShoot.exe.config
+C:\Users\Frank\source\repos\ScreenShoot\ScreenShoot\bin\Debug\ScreenShoot.exe
+C:\Users\Frank\source\repos\ScreenShoot\ScreenShoot\bin\Debug\ScreenShoot.pdb
+C:\Users\Frank\source\repos\ScreenShoot\ScreenShoot\obj\Debug\ScreenShoot.csprojAssemblyReference.cache
+C:\Users\Frank\source\repos\ScreenShoot\ScreenShoot\obj\Debug\ScreenShoot.Properties.Resources.resources
+C:\Users\Frank\source\repos\ScreenShoot\ScreenShoot\obj\Debug\ScreenShoot.csproj.GenerateResource.cache
+C:\Users\Frank\source\repos\ScreenShoot\ScreenShoot\obj\Debug\ScreenShoot.exe
+C:\Users\Frank\source\repos\ScreenShoot\ScreenShoot\obj\Debug\ScreenShoot.pdb
+C:\Users\Frank\source\repos\ScreenShoot\ScreenShoot\obj\Debug\ScreenShoot.FormCutter.resources
+C:\Users\Frank\source\repos\ScreenShoot\ScreenShoot\obj\Debug\ScreenShoot.FormMain.resources
+C:\Users\Frank\source\repos\ScreenShoot\ScreenShoot\obj\Debug\ScreenShoot.csproj.CopyComplete
