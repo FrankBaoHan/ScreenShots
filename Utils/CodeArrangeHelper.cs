@@ -14,7 +14,7 @@ namespace ScreenShoot
                 Split(Environment.NewLine.ToCharArray());
 
             StringBuilder sbDst = new StringBuilder();
-            sbDst.Append("//if CurrentPage == \"\" {").
+            sbDst.Append("//if (CurrentPage == \"\") {").
                 AppendLine();
 
             int tagNumber = 0;
