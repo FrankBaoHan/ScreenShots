@@ -31,9 +31,8 @@ namespace ScreenShoot
                 tagNumber++;
             }
 
-            sbDst.Append("    Unconfirmed = Unconfirmed - " + tagNumber.ToString() + ";").
-                AppendLine().
-                Append("}").
+            //sbDst.Append("    Unconfirmed = Unconfirmed - " + tagNumber.ToString() + ";").
+            sbDst.Append("}").
                 AppendLine();
 
             return sbDst;
