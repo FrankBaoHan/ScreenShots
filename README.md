@@ -1,2 +1,2 @@
 # ScreenShots
-For DNVGL paging production code batch generation(XYJK08 v1.1)
+For DNVGL paging production code batch generation(XY08JK v1.1)
