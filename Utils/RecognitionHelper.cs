@@ -10,8 +10,8 @@ namespace ScreenShoot
 {
     public class RecognitionHelper
     {
-        private const string API_KEY = "ee556cd2167a4aa491e01080e55da813";
-        private const string SECRET_KEY = "84597f2d0a0645d1b36f2f374c2355d7";
+        private const string API_KEY = "*";
+        private const string SECRET_KEY = "*";
 
         public static StringBuilder recognize(Bitmap bitmap)
         {
@@ -24,7 +24,6 @@ namespace ScreenShoot
 
             var result = client.AccurateBasic(image);
 
-            // 如果有可选参数
             var options = new Dictionary<string, object>{
                 {"language_type", "ENG"},//语言
                 {"detect_direction", "true"},//图片方向
